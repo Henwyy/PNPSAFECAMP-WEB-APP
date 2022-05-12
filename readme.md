@@ -1,7 +1,5 @@
-###################
-SCREENSHOTS
-###################
 
+# RANDOM SCREENSHOTS
 ![image 11](https://user-images.githubusercontent.com/70371086/168085291-c526ea80-a6e0-4f9b-bf46-5c95ed2a32c9.png)
 ![Frame 1](https://user-images.githubusercontent.com/70371086/168085300-ca5c9245-f8a6-4b34-9b9c-df7ac98c76b1.png)
 ![C2](https://user-images.githubusercontent.com/70371086/168085306-af12606f-5d40-400b-b703-6ad1338e14f1.png)
